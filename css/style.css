@@ -95,7 +95,7 @@ data:first-child{
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas: 'header main';
     background-color: var(--White);
-    max-width: 720px;
+    max-width: 630px;
     border-radius: var(--default-border-radius-value);
 }
 
